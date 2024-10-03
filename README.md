@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Shibili Shiyad</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
--  I’m currently learning **Node js**
+
 
 -  All of my projects are available at [https://shibilishiyad.github.io/shibilishiyad-portfolio/](https://shibilishiyad.github.io/shibilishiyad-portfolio/)
 
